@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "position": "Technical Content Writer",
+        "location": "37/2 Kazi Road, Dhaka",
+        "logo": "https://media.licdn.com/dms/image/C560BAQEdy0PbqsWZjA/company-logo_100_100/0/1588526964725?e=1684368000&v=beta&t=3ORaE-411WBpVHjp85OW-4FnNelNbo8XRf0DFZ29fMk",
+        "company": "RK Wizards LLC"
+    },
+    {
+        "id": "2",
+        "position": "Bank Manager",
+        "location": "Sector 2, Road 2, Uttora",
+        "logo": "https://4.bp.blogspot.com/-vR4lvluNLj0/VozjxYoQaSI/AAAAAAAAC9I/1psl5vJ33f4/s1600/trust-bank.jpg",
+        "company": "Trust Bank"
+    },
+    {
+        "id": "3",
+        "position": "Full-stake Web Developer",
+        "location": "57/2 Dhanmondi, Dhaka",
+        "logo": "https://api.hatchwise.com/api/public/storage/assets/contests/entries/S972350-20160305083953.jpg",
+        "company": "Deja-vuu"
+    },
+    {
+        "id": "4",
+        "position": "Technical Manager",
+        "location": "48 Motijheel, Dhaka",
+        "logo": "https://media.licdn.com/dms/image/C4D0BAQGQf6U3mztrvg/company-logo_100_100/0/1522173173886?e=1684368000&v=beta&t=ejJbNkvdiNKLAgzz9a2vJY5DFJYEcyKYnUO3yKDvSU4",
+        "company": "International Rescue Committee"
+    },
+    {
+        "id": "5",
+        "position": "Sales and Marketing Executive",
+        "location": "Savar, Dhaka",
+        "logo": "https://media.licdn.com/dms/image/C560BAQEYq4ctmjDiLQ/company-logo_100_100/0/1642058166459?e=1684368000&v=beta&t=At5NBSspT99BymL00y_ybeMGtgvQcqdBeeySxD6CBNA",
+        "company": "CIS Tech Ltd."
+    },
+    {
+        "id": "6",
+        "position": "Intelligence Network Global Agents",
+        "location": "Sector 9, Road 7, Uttora",
+        "logo": "https://media.licdn.com/dms/image/C510BAQFNdCZNr_Mljg/company-logo_100_100/0/1543997073843?e=1684368000&v=beta&t=7y3PXpZAQv7aTC2N2ndyN-chlwylm71dd50lCXnz1-k",
+        "company": "Rouge International"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "location": "37/2 Kazi Road, Dhaka",
+        "logo": "https://basisegov.com.bd/sites/default/files/partner_logo/picture-20-1581143911.png",
+        "company": "Brain Station 23"
+    },
+    {
+        "id": "2",
+        "location": "Sector 2, Road 2, Uttora",
+        "logo": "https://media.licdn.com/dms/image/C4D0BAQEjxR3UfcDfzg/company-logo_200_200/0/1563978266173?e=2147483647&v=beta&t=ekCWZjbJW0fXONt8_U5Cagyk4tF2v9XPxAjzQEwgKSw",
+        "company": "Newscred"
+    },
+    {
+        "id": "3",
+        "location": "57/2 Dhanmondi, Dhaka",
+        "logo": "https://esoft.lk/wp-content/uploads/2021/10/emc-placeholder.png",
+        "company": "e-soft"
+    }
+]

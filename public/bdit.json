@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "location": "37/2 Kazi Road, Dhaka",
+        "logo": "https://futurestartup.com/wp-content/uploads/2017/03/Brain-Station-23-1.jpg",
+        "company": "Brain Station 23"
+    },
+    {
+        "id": "2",
+        "location": "Sector 2, Road 2, Uttora",
+        "logo": "https://martech.org/wp-content/uploads/2016/03/newscred-new-logo-1920.png",
+        "company": "Newscred"
+    },
+    {
+        "id": "3",
+        "location": "57/2 Dhanmondi, Dhaka",
+        "logo": "https://www.mawbiz.com.bd/application/views/module/product_image/technobd_1.jpg",
+        "company": "Technobd Limited"
+    }
+]

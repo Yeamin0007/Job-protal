@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+       
+        "location": "Redmond, Washington",
+        "logo": "https://cdn.britannica.com/71/103171-050-BD1B685A/Bill-Gates-Microsoft-Corporation-operating-system-press-2001.jpg",
+        "company": "Microsoft Corporation"
+    },
+    {
+        "id": "2",
+        
+        "location": "Armonk, Future York",
+        "logo": "https://erp.today/wp-content/uploads/2022/05/ibm_0.jpeg",
+        "company": "IBM"
+    },
+    {
+        "id": "3",
+      
+        "location": "Redwood Shores, California",
+        "logo": "https://www.eosis.energy/wp-content/uploads/oracle-4.jpg",
+        "company": "Oracle"
+    }
+]
